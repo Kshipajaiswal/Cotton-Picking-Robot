@@ -48,6 +48,9 @@ App controlled robotic arm will be used for the cotton-picking robot as the pick
 
 ![Image](https://github.com/user-attachments/assets/e8c6ec11-6274-4450-8b7a-580715e03782)
 
+## Circuit Diagram
+
+
 ## Navigation
 An app-controlled robot is a type of robot that can be operated remotely using a mobile application on a smartphone or tablet. This technology leverages Bluetooth, Wi-Fi, or Internet-based communication for controlling the robot's movements and functions. This method is being used due to the advantage of the operator having full control over the navigation and the picking and placing of the cotton balls.
 
