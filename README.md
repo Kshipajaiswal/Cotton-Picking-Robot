@@ -1,4 +1,5 @@
 # Cotton-Picking-Robot
+Automated cotton-picking robot using Arduino and sensors to boost harvesting efficiency and reduce manual labor in agriculture.
 
 ## Introduction
 The process of growing and harvesting cotton, a valued natural fiber used in the textile sector, is known as cotton cultivation. Mostly in warm countries like the United States, China, India, Brazil, Pakistan it is grown. India produces cotton on around 12 million hectares, or one-third of the worldwide land used for cotton cultivation. Cotton reaches maturity in 160 days; harvest occurs over the final 60 days. 
