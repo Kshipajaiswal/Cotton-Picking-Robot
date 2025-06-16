@@ -57,4 +57,10 @@ An app-controlled robot is a type of robot that can be operated remotely using a
 
 ![Image](https://github.com/user-attachments/assets/7c0dd846-1b76-4cf4-9dac-792a3507489e)
 
+![image](https://github.com/user-attachments/assets/4d70ee4f-f317-4c55-94d7-44220a36bc38)
+
+
+
+
+
 
