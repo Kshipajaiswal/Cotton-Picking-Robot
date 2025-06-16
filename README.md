@@ -6,7 +6,7 @@ Cotton-picking robots have been created to enable quicker and more effective har
 
 Making agriculture better depends much on technology. From seeding to harvesting, technology helps every process whether it is software-based gear or machinery. It enables good quality of the produce, boosts farming efficiency, and lowers skilled labor needs.
 
-## Key Features:
+## Key Features
 1. Navigation and mobility:
     * The navigation will be app controlled. This will help in manual control, and easy to use interface for the cotton-picking robot. 
 2. IoT integration:
@@ -42,3 +42,11 @@ Making agriculture better depends much on technology. From seeding to harvesting
 8. DC battery holder x 1
 9. Jumper wires
 10. DC battery
+
+## Picking Device
+App controlled robotic arm will be used for the cotton-picking robot as the picking device.The app-controlled arm will give full control to the farmers for efficient picking. The design allows for various picking techniques based on environmental conditions, such as adjusting grip strength or changing angles for optical access.
+
+![Image](https://github.com/user-attachments/assets/e8c6ec11-6274-4450-8b7a-580715e03782)
+
+## Navigation
+An app-controlled robot is a type of robot that can be operated remotely using a mobile application on a smartphone or tablet. This technology leverages Bluetooth, Wi-Fi, or Internet-based communication for controlling the robot's movements and functions. This method is being used due to the advantage of the operator having full control over the navigation and the picking and placing of the cotton balls.
