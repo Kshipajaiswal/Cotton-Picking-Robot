@@ -23,3 +23,22 @@ Making agriculture better depends much on technology. From seeding to harvesting
 6. Actuation and Manipulation:
     * End-Effectors: Specialized grippers or suction-based tools pick the cotton without damaging the plant.
     * Robotic Arms: Multi-DOF (degrees of freedom) arms offer precision in reaching cotton bolls located at various angles.
+
+## Objective Of The Work
+1. Reduce Human Labor Dependence
+2. Operate Continuously Without Needing Rest
+3. Lower Operational Costs
+4. Faster Return on Investment
+5. Navigate Complex Terrains
+
+## Hardware Introduction
+1. Arduino UNO board x 1
+2. L293D motor driver x 1
+3. PWM servo motor driver
+4. Servo motor x 4
+5. Robot arm x 1
+6. Gear motor x 2
+7. Robot wheel x 3
+8. DC battery holder x 1
+9. Jumper wires
+10. DC battery
