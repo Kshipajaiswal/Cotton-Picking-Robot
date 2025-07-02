@@ -11,8 +11,6 @@ Automated cotton-picking robot using Arduino and sensors to boost harvesting eff
 - [Circuit Diagram](#circuit-diagram)
 - [How to Test](#how-to-test)
 - [Future Scope](#future-scope)
-- [Contributors](#contributors)
-- [License](#license)
 
  
 ## Introduction
