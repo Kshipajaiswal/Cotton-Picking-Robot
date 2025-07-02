@@ -9,8 +9,7 @@ Automated cotton-picking robot using Arduino and sensors to boost harvesting eff
 - [Picking Device](#picking-device)
 - [Navigation](#navigation)
 - [Circuit Diagram](#circuit-diagram)
-- [Working Demo](#working-demo)
-- [Installation Guide](#installation-guide)
+- [How to Test](#how-to-test)
 - [Future Scope](#future-scope)
 - [Contributors](#contributors)
 - [License](#license)
@@ -116,3 +115,58 @@ Connections:
 Function:
 * This system allows fine control of the robotic arm using the mobile app or pre-programmed movements.
 * The servos move in response to signals sent by the Arduino via the PWM driver, enabling cotton picking without damaging the plant.
+
+## How to Test
+Upload the sketch to your Arduino UNO.
+
+Open the Serial Monitor (or connect a Bluetooth app like Serial Bluetooth Terminal).
+
+Send these single-letter commands:
+
+* F – Move Forward
+* B – Move Backward
+* L – Turn Left
+* R – Turn Right
+* S – Stop
+* P – Perform cotton-picking movement
+
+## Future Scope
+1. Smart Cotton Detection
+
+Add a camera and AI to automatically find and pick only the ripe cotton, making it faster and more accurate.
+
+2. Self-Driving Feature
+
+Use GPS or sensors so the robot can move on its own without needing to be controlled by an app.
+
+3. Use of Mini-Computer
+
+Add a small computer like a Raspberry Pi to handle image processing and control without needing a separate laptop or phone.
+
+4. Soil and Weather Monitoring
+
+Attach sensors to check soil moisture, temperature, and weather to help farmers take better care of their crops.
+
+5. Multiple Robots Working Together
+
+Build more robots that can work as a team in the field to finish harvesting faster.
+
+6. Solar Powered
+
+Add solar panels so the robot can charge itself and work in places where electricity is not available.
+
+7. Send Data Online
+
+Let the robot send updates to a mobile app or website so the farmer can track progress and data from anywhere.
+
+8. Better Robotic Arm
+
+Improve the robotic arm to be more flexible and gentle so it can pick cotton without damaging the plant.
+
+9. Voice or Gesture Control
+
+Control the robot with simple hand movements or voice commands instead of using buttons or apps.
+
+10. Use for Other Crops
+
+Make the robot adjustable so it can help with other crops like fruits or vegetables in the future.
