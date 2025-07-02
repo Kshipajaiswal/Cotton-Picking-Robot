@@ -141,32 +141,32 @@ Use GPS or sensors so the robot can move on its own without needing to be contro
 
 * Use of Mini-Computer
 
-Add a small computer like a Raspberry Pi to handle image processing and control without needing a separate laptop or phone.
+ Add a small computer like a Raspberry Pi to handle image processing and control without needing a separate laptop or phone.
 
 * Soil and Weather Monitoring
 
-Attach sensors to check soil moisture, temperature, and weather to help farmers take better care of their crops.
+ Attach sensors to check soil moisture, temperature, and weather to help farmers take better care of their crops.
 
 * Multiple Robots Working Together
 
-Build more robots that can work as a team in the field to finish harvesting faster.
+ Build more robots that can work as a team in the field to finish harvesting faster.
 
 * Solar Powered
 
-Add solar panels so the robot can charge itself and work in places where electricity is not available.
+ Add solar panels so the robot can charge itself and work in places where electricity is not available.
 
 * Send Data Online
 
-Let the robot send updates to a mobile app or website so the farmer can track progress and data from anywhere.
+ Let the robot send updates to a mobile app or website so the farmer can track progress and data from anywhere.
 
 * Better Robotic Arm
 
-Improve the robotic arm to be more flexible and gentle so it can pick cotton without damaging the plant.
+ Improve the robotic arm to be more flexible and gentle so it can pick cotton without damaging the plant.
 
 * Voice or Gesture Control
 
-Control the robot with simple hand movements or voice commands instead of using buttons or apps.
+ Control the robot with simple hand movements or voice commands instead of using buttons or apps.
 
 * Use for Other Crops
 
-Make the robot adjustable so it can help with other crops like fruits or vegetables in the future.
+ Make the robot adjustable so it can help with other crops like fruits or vegetables in the future.
