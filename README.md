@@ -75,6 +75,7 @@ An app-controlled robot is a type of robot that can be operated remotely using a
 ![Image](https://github.com/user-attachments/assets/7c0dd846-1b76-4cf4-9dac-792a3507489e)
 
 1. Arduino UNO Connection with L293D Motor Shield
+
 This circuit diagram demonstrates how four DC motors are connected to an Arduino UNO via an L293D Motor Shield for driving and navigation.
 
 
@@ -95,7 +96,8 @@ Function:
 
 ![image](https://github.com/user-attachments/assets/4d70ee4f-f317-4c55-94d7-44220a36bc38)
 
-2.Arduino with Servo Driver and Robotic Arm
+2. Arduino with Servo Driver and Robotic Arm
+   
 This circuit shows how the robotic arm and servo motors are controlled using an Arduino UNO and a PCA9685 PWM Servo Driver.
 
 
