@@ -6,8 +6,9 @@ Automated cotton-picking robot using Arduino and sensors to boost harvesting eff
 - [Key Features](#key-features)
 - [Objective of the Work](#objective-of-the-work)
 - [Hardware Introduction](#hardware-introduction)
+- [Picking Device](#picking-device)
+- [Navigation](#navigation)
 - [Circuit Diagram](#circuit-diagram)
-- [Navigation and Control](#navigation-and-control)
 - [Working Demo](#working-demo)
 - [Installation Guide](#installation-guide)
 - [Future Scope](#future-scope)
@@ -73,5 +74,37 @@ An app-controlled robot is a type of robot that can be operated remotely using a
 
 ![Image](https://github.com/user-attachments/assets/7c0dd846-1b76-4cf4-9dac-792a3507489e)
 
+1. Arduino UNO Connection with L293D Motor Shield
+This circuit diagram demonstrates how four DC motors are connected to an Arduino UNO via an L293D Motor Shield for driving and navigation.
+Key Components:
+* Arduino UNO: The microcontroller that sends control signals.
+* L293D Motor Shield: Controls the speed and direction of the motors.
+* DC Motors (M1 to M4): Used for locomotion/navigation.
+* 5V DC Power Supply: Provides external power to the motors.
+Connections:
+* Each motor (Motor 1–4) is connected to a pair of outputs on the motor shield (M1-A, M1-B, etc.).
+* External power is supplied via a 5V battery. The jumper is removed to allow external power input, protecting the Arduino from overload.
+* The shield is stacked directly on top of the Arduino UNO, using its I/O pins to receive commands.
+Function:
+* This setup allows the Arduino to control forward, backward, left, and right movements by adjusting motor speeds/directions.
+* The robot’s movement can be controlled via Bluetooth or an app interface.
+
 ![image](https://github.com/user-attachments/assets/4d70ee4f-f317-4c55-94d7-44220a36bc38)
 
+2.Arduino with Servo Driver and Robotic Arm
+This circuit shows how the robotic arm and servo motors are controlled using an Arduino UNO and a PCA9685 PWM Servo Driver.
+Key Components:
+* Arduino UNO: Sends control signals to the servo driver.
+* PCA9685 Servo Motor Driver: Enables control of multiple servo motors using I2C protocol.
+* Servo Motors: Provide motion to different joints of the robotic arm.
+* Robotic Arm: The end-effector for cotton picking.
+* 5V DC Power Supply: Powers the servo motors.
+
+Connections:
+*The PCA9685 receives power (5V and GND) and I2C communication lines (SCL, SDA) from the Arduino.
+*The servo motors are connected to the PCA9685 driver, which generates precise PWM signals for motion.
+*The robotic arm’s movement (e.g., rotate, grip, lift) is handled by the servo motors based on user commands.
+
+Function:
+*This system allows fine control of the robotic arm using the mobile app or pre-programmed movements.
+*The servos move in response to signals sent by the Arduino via the PWM driver, enabling cotton picking without damaging the plant.
